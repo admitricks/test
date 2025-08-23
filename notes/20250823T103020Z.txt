@@ -1,0 +1,2 @@
+timestamp=2025-08-23T10:30:20Z
+nonce=52483f9f386bdefa5a49bbfbc1c58500
