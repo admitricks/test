@@ -1,0 +1,2 @@
+timestamp=2025-12-23T14:34:56Z
+nonce=587c8ff16bf44f2b033f7396c4749c34
