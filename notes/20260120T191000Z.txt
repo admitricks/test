@@ -1,0 +1,2 @@
+timestamp=2026-01-20T19:10:00Z
+nonce=a7c77e12e65847bdaf86f8ebc7406b19
