@@ -1,0 +1,2 @@
+timestamp=2026-07-15T15:47:00Z
+nonce=e7603c861a8317552888cdb95acc60d1
